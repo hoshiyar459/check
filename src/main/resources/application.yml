@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      port: 27017
+      database: journal
+
+
+servlet:
+  port: 9090
